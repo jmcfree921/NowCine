@@ -2,7 +2,7 @@
   "update": {
     "latest_version": 5,
     "required": true,
-    "title": "Bản cập nhật Zentube 5.0",
+    "title": "Bản cập nhật Nowcine 5.0",
     "message": "Đã có phiên bản mới, vui lòng cập nhật.",
     "download_url": "https://github.com/jmcfree921/NowCine/blob/main/Nowcine5.0.apk?raw=true"
   }
