@@ -1,0 +1,9 @@
+{
+  "update": {
+    "latest_version": 6,
+    "required": true,
+    "title": "Bản cập nhật Zentube 6.0",
+    "message": "Đã có phiên bản mới, vui lòng cập nhật.",
+    "download_url": "https://github.com/jmcfree921/NowCine/blob/main/Nowcine2.0.apk?raw=true"
+  }
+}
