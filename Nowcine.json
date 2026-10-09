@@ -1,9 +1,9 @@
 {
   "update": {
-    "latest_version": 6,
+    "latest_version": 7,
     "required": true,
-    "title": "Bản cập nhật Nowcine 6.0",
+    "title": "Bản cập nhật Nowcine 7.0",
     "message": "Đã có phiên bản mới, vui lòng cập nhật.",
-    "download_url": ""
+    "download_url": "https://github.com/jmcfree921/NowCine/blob/main/Nowcine7.0.apk?raw=true"
   }
 }
